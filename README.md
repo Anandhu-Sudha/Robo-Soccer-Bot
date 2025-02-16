@@ -8,7 +8,7 @@ This bot was built for an event called " Robo Soccer " during the tech fest ELEC
 I scoured the internet for reference and they were all wired bots. again with the #Everything_i_want_to_be_different mentality I decided to make it wireless. 
 
 
-<img src="https://github.com/Anandhu-Sudha/Robo-Soccer-Bot/blob/d35b235866ddb80d11fb0fadb1e675b2c27706b1/pictures/IMG20240406212303.jpg" width="300" height="500" />
+![img alt](https://github.com/Anandhu-Sudha/Robo-Soccer-Bot/blob/d35b235866ddb80d11fb0fadb1e675b2c27706b1/pictures/IMG20240406212303.jpg)
 
 https://github.com/user-attachments/assets/fafdaa95-9795-4099-8903-6856ee090af2
 
@@ -21,9 +21,9 @@ I made it with the help of my buddy @akhilsamvarghese He designed the 3D Files a
 <b>Construction</b> 
 --------------------
 
-<img src="https://github.com/Anandhu-Sudha/Robo-Soccer-Bot/blob/d35b235866ddb80d11fb0fadb1e675b2c27706b1/pictures/components.jpg" width="600" height="300" />
+![img alt](https://github.com/Anandhu-Sudha/Robo-Soccer-Bot/blob/d35b235866ddb80d11fb0fadb1e675b2c27706b1/pictures/components.jpg)
 
-<img src="https://github.com/Anandhu-Sudha/Robo-Soccer-Bot/blob/d35b235866ddb80d11fb0fadb1e675b2c27706b1/pictures/IMG20240331100721.jpg" width="600" height="1000" />
+![img alt](https://github.com/Anandhu-Sudha/Robo-Soccer-Bot/blob/d35b235866ddb80d11fb0fadb1e675b2c27706b1/pictures/IMG20240331100721.jpg)
 
 3D files are designed and printed by @akhilsamvarghese I only had to screw the motors, nrf module, arduino nano. The bot is powered by 2 Li-ion Cells ( internal connection pictures are not found in the gallery ).
 
@@ -44,6 +44,6 @@ Man... that was really agile.
 
 Here's the poster of the event 👇
 
-<img src= "https://github.com/Anandhu-Sudha/Robo-Soccer-Bot/blob/d35b235866ddb80d11fb0fadb1e675b2c27706b1/pictures/flex.jpg" width="200" height="300" />
+![img alt](https://github.com/Anandhu-Sudha/Robo-Soccer-Bot/blob/d35b235866ddb80d11fb0fadb1e675b2c27706b1/pictures/flex.jpg)
 
 Pictures & Videos are included in the file
