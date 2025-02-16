@@ -1,5 +1,5 @@
 # Robo-Soccer-Bot
-Built a wireless RC Car with damage protection body
+Built a wireless RC Car with damage protection body.
 
 #throwback-april-2024
 
